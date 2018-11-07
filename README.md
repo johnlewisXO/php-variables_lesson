@@ -1,2 +1,2 @@
-# php-variables_lesson
-PHP - Variables lesson 
+# php-variables_challenge
+Challenge for PHP variables
